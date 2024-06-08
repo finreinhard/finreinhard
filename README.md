@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+Sadly GitHub fixed the background workaround
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/finreinhard/finreinhard/main/pattern.png');]{x0000}$}
+-->
